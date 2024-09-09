@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "sacrum": 1,
+        "left_hip": 2,
+        "right_hip": 3
+    },
+    "numTraining": 100,
+    "file_ending": ".nii.gz",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}

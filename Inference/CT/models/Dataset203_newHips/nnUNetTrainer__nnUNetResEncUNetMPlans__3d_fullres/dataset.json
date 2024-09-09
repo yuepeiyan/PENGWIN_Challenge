@@ -1,0 +1,13 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "main_fragment": 1,
+        "minor_fragment": 2
+    },
+    "numTraining": 200,
+    "file_ending": ".mha",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}

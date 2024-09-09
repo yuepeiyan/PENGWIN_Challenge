@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "sacrum": 1,
+        "left_hip": 2,
+        "right_hip": 3
+    },
+    "numTraining": 184,
+    "file_ending": ".mha",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}
