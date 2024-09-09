@@ -3,7 +3,8 @@
 Here is the code for the solution from the SMILE team that ranked 2nd in Task1 and 1st in Task2 of the PENWIN Challenge.
 (https://pengwin.grand-challenge.org/result/)
 
-The models used in the two tasks were all trained using nnunetv2 with default configuration, the model weights can be download in xxx
+The models used in the two tasks were all trained using nnunetv2 with default configuration, 
+the model weights can be download in https://drive.google.com/drive/folders/10vj-uYT8Gev8K0S0Skpq-rjvApdyTUbA?usp=drive_link
 
 
 ## Installation
